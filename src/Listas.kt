@@ -46,5 +46,4 @@ fun curso() {
     println(cursos)
     println(cursoVacios)
 
-
 }

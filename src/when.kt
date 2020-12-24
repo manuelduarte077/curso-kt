@@ -4,7 +4,6 @@ fun main() {
     println(semana(8))
     println(tipo('1'))
 
-
 }
 
 fun semana(dia: Int): String {
@@ -19,7 +18,6 @@ fun semana(dia: Int): String {
         7 -> "Domingo"
         else -> "Esta semana no conincide"
     }
-
 
 }
 

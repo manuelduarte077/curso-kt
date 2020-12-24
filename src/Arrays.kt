@@ -39,5 +39,4 @@ fun asignaturas () {
 
     println(materias[5])
 
-
 }

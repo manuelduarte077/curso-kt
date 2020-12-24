@@ -3,7 +3,6 @@ fun main(){
     // una variable es un espacio en memoria para guardar datos
     var name = "Manuel"
 
-
     //Variables numéricas
     // Integer
     val age:Int = 18
@@ -21,7 +20,6 @@ fun main(){
 
     //Bolean
     val boolean:Boolean = true
-
 
     operadores()
 
